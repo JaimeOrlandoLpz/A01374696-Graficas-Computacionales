@@ -1,0 +1,23 @@
+body{
+  background-color: #eaffd0;
+}
+
+canvas{
+  background-color: red;
+  width: 600px;
+  height: 300px;
+}
+
+/* Headers */
+h2{
+  font-size: 3.5rem;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+#p1{
+  color: blue;
+}
+
+#p2{
+  color: pink;
+}
