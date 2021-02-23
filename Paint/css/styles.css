@@ -1,0 +1,36 @@
+canvas{
+  border: 2px solid black;
+}
+
+p{
+  display: inline;
+}
+
+button{
+  display: inline;
+}
+
+#red-button{
+  background-color: red;
+}
+
+#blue-button{
+  background-color: blue;
+}
+
+#yellow-button{
+  background-color: yellow;
+}
+
+#pink-button{
+  background-color: pink;
+}
+
+#white-button{
+  background-color: white;
+}
+
+#black-button{
+  background-color: black;
+  color: white;
+}
